@@ -1,0 +1,5 @@
+print('Pleas write you are name:')
+name = input()
+print('How old are you:')
+age = int(input())
+print('Hello', name.title(), 'on next birthday you will be', age + 1, 'years')
